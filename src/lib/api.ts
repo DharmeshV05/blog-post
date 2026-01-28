@@ -1,7 +1,7 @@
 import axios from "axios"
 
-// JSON Server runs on port 3001
-const API_BASE_URL = "http://localhost:3001"
+// Use environment variable for API URL, fallback to localhost for development
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3001"
 
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
