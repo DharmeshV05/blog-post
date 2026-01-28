@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.example
+
+# Development documentation (not needed in repo)
+COMPLETION_CHECKLIST.md
+COMPLETION_SUMMARY.md
+DOCUMENTATION_INDEX.md
+DOCUMENTATION_GUIDE.md
+FINAL_VERIFICATION.md
+GETTING_STARTED.md
+GITHUB_READY.md
+GITHUB_SUBMISSION_GUIDE.md
+PROJECT_FILE_STRUCTURE.md
+QUICK_REFERENCE.md
+QUICKSTART.md
+SETUP_VERIFICATION.md
+START_HERE.md
+STATUS_REPORT.md
+SUBMISSION_READY.md

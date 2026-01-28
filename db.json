@@ -1,0 +1,51 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "The financial services industry is undergoing a revolutionary transformation. Artificial intelligence and blockchain technology are at the forefront of this change, reshaping how we think about money, payments, and financial security.\n\nAI-powered systems are now capable of analyzing vast amounts of financial data in real-time, enabling more accurate risk assessment and fraud detection. Meanwhile, blockchain technology offers unprecedented transparency and security in transactions.\n\nThis convergence of technologies is creating new opportunities for innovation and efficiency in the financial sector. Financial institutions that embrace these technologies will likely lead the market in the coming years."
+    },
+    {
+      "id": "2",
+      "title": "React Best Practices",
+      "category": [
+        "TECH",
+        "REACT"
+      ],
+      "description": "Learn modern React patterns and hooks for writing clean, maintainable code",
+      "date": "2026-01-15T14:30:22.450Z",
+      "coverImage": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg",
+      "content": "React has evolved significantly over the years. With the introduction of hooks, functional components have become the standard way of writing React components.\n\nKey best practices include:\n1. Using hooks for state management\n2. Keeping components small and focused\n3. Avoiding prop drilling with Context API\n4. Using custom hooks for reusable logic\n5. Proper error boundaries and error handling\n\nBy following these practices, you'll write React code that's easier to test, maintain, and scale."
+    },
+    {
+      "id": "3",
+      "title": "TypeScript in Production",
+      "category": [
+        "TECH",
+        "TYPESCRIPT"
+      ],
+      "description": "Best practices for using TypeScript in large-scale applications",
+      "date": "2026-01-18T10:45:15.890Z",
+      "coverImage": "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg",
+      "content": "TypeScript has become the go-to choice for large-scale JavaScript applications. Its strong type system helps catch errors at compile-time rather than runtime.\n\nWhen using TypeScript in production, consider:\n- Setting strict mode in tsconfig.json\n- Creating reusable type definitions\n- Using interfaces for contracts\n- Leveraging generics for flexible code\n- Maintaining consistent naming conventions\n\nInvesting time in TypeScript upfront will save you countless debugging hours later."
+    },
+    {
+      "id": "2f50",
+      "title": "test",
+      "description": "google",
+      "coverImage": "https://instasize.com/p/b4c48b235b8a44cdcb50667ab2133eacfdc86aeedd20e76c61476726adea2676",
+      "category": [
+        "TECH"
+      ],
+      "content": "Built a voucher management web application using React.js for the frontend. React handled form submission, state management, authentication flow, and dashboard UI. The system allows users to upload vouchers, generate PDFs, and manage records efficiently. The application was deployed using Firebase Hosting and Cloud Functions.",
+      "date": "2026-01-27T09:21:45.173Z"
+    }
+  ]
+}
